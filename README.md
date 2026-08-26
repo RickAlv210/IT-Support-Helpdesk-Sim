@@ -1,3 +1,4 @@
+
 # IT Support Helpdesk Simulation
 
 A simulated IT help desk environment built in Zendesk to develop hands-on experience with real-world ticketing workflows — intake, triage, internal documentation, and resolution — ahead of applying to entry-level IT support and help desk roles.
@@ -36,28 +37,28 @@ I have a cybersecurity background (BBA in Cybersecurity, Security+, hands-on SOC
 ## Screenshots
 
 ### Ticket Queue Overview
-![Ticket Queue](screenshots/ticket-queue-overview.png)
+![Ticket Queue](ticket-queue-overview.png)
 
 ### Ticket 1 — Login Issue
-![Ticket 1](screenshots/ticket-01-sample-login.png)
+![Ticket 1](ticket-01-sample-login.png)
 
 ### Ticket 2 — Account Lockout (Solved)
-![Ticket 2](screenshots/ticket-02-account-lockout-solved.png)
+![Ticket 2](ticket-02-account-lockout-solved.png)
 
 ### Ticket 3 — Printer Offline
-![Ticket 3](screenshots/ticket-03-printer-issue.png)
+![Ticket 3](ticket-03-printer-issue.png)
 
 ### Ticket 4 — Software Install Request
-![Ticket 4](screenshots/ticket-04-software-request.png)
+![Ticket 4](ticket-04-software-request.png)
 
 ### Ticket 5 — VPN Connectivity Issue
-![Ticket 5](screenshots/ticket-05-vpn-issue.png)
+![Ticket 5](ticket-05-vpn-issue.png)
 
 ### Ticket 6 — New Hire Setup
-![Ticket 6](screenshots/ticket-06-new-hire-setup.png)
+![Ticket 6](ticket-06-new-hire-setup.png)
 
 ### Ticket 7 — Phishing Report
-![Ticket 7](screenshots/ticket-07-phishing-report.png)
+![Ticket 7](ticket-07-phishing-report.png)
 
 ## Key Takeaway
 
