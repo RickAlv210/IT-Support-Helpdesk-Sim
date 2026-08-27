@@ -35,10 +35,6 @@ I have a cybersecurity background (BBA in Cybersecurity, Security+, hands-on SOC
 | 7 | Suspicious email asking to verify account — possible phishing | Incident | High | Pending | Phishing report / security triage |
 
 ## Screenshots
-
-### Ticket Queue Overview
-![Ticket Queue](ticket-queue-overview.png)
-
 ### Ticket 1 — Login Issue
 ![Ticket 1](ticket-01-sample-login.png)
 
