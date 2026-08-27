@@ -62,4 +62,4 @@ I have a cybersecurity background (BBA in Cybersecurity, Security+, hands-on SOC
 
 ## Key Takeaway
 
-This project isn't a substitute for real help desk experience, but it gave me practical, defensible exposure to the mechanics of ticket-based support work — something I can speak to confidently in an interview rather than answering "no" when asked about ticketing system experience.
+I wanted hands-on experience with a real ticketing system instead of waiting for a job to give me that opportunity, so I built this simulation myself. It's not a replacement for real help desk experience, but it means I can speak to ticketing workflows from firsthand practice instead of just theory.
